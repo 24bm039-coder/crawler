@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Highway Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "690509",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Kollakadavu SO, Kallimel BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "NH 30, Amoch, Madhya Pradesh 483225",
+    "area": "690509",
+    "latitude": 23.5752092,
+    "longitude": 80.194015,
+    "place_id": "ChIJV_FRC79xgTkRazSqGDq-paE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_FRC79xgTkRazSqGDq-paE",
+    "part_id": "part_306",
+    "crawled_at": "2026-09-20 20:40:28"
+  }
+]

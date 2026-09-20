@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Aari’s cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Apartment building",
+    "pincode": "690505",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Charumoodu SO, Kannanakuzhy BO, Komallur BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Swathi, Link Rd, Charummoodu, Chunakkara, Keralam 690505",
+    "area": "690505",
+    "latitude": 9.176204499999999,
+    "longitude": 76.6067526,
+    "place_id": "ChIJRZQvWacbBjsRdgoLGb-6BgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZQvWacbBjsRdgoLGb-6BgA",
+    "part_id": "part_306",
+    "crawled_at": "2026-09-20 20:37:29"
+  }
+]

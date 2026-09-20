@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "J S Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "690509",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Kollakadavu SO, Kallimel BO",
+    "phone_number": "+91 95622 63670",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Cheriyanad, Keralam 689511",
+    "area": "690509",
+    "latitude": 9.2764717,
+    "longitude": 76.5858367,
+    "place_id": "ChIJUbd7pY8YBjsRODfzwYDpTXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbd7pY8YBjsRODfzwYDpTXo",
+    "part_id": "part_306",
+    "crawled_at": "2026-09-20 20:40:24"
+  }
+]
