@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Matha Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "688525",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alleppey Division",
+    "major_offices": "Muhamma SO",
+    "phone_number": "+91 80754 25807",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Thyckal Jct Rd, Cherthala, Kadakkarappally, Keralam 688530",
+    "area": "688525",
+    "latitude": 9.6859389,
+    "longitude": 76.2983993,
+    "place_id": "ChIJm5NZf1l9CDsRvGEUSro-9y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5NZf1l9CDsRvGEUSro-9y4",
+    "part_id": "part_303",
+    "crawled_at": "2026-09-20 20:27:32"
+  }
+]

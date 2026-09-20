@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "LAL'S CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "688525",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alleppey Division",
+    "major_offices": "Muhamma SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J9QC+5PF, Puthanangadi Alappuzha, Puthanagadi, Keralam 688525",
+    "area": "Puthanagadi",
+    "latitude": 9.6379253,
+    "longitude": 76.3717983,
+    "place_id": "ChIJA5IWXzl_CDsRhFwdMqi5yaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5IWXzl_CDsRhFwdMqi5yaE",
+    "part_id": "part_303",
+    "crawled_at": "2026-09-20 20:27:25"
+  }
+]

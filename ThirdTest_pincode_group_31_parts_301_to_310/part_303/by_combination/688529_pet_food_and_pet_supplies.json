@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Happy Pets pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "688529",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alleppey Division",
+    "major_offices": "Kadakkarapally SO, Vettackal BO",
+    "phone_number": "+91 73569 08690",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kadakkarappally, Keralam 688529",
+    "area": "688529",
+    "latitude": 9.7039858,
+    "longitude": 76.3072378,
+    "place_id": "ChIJKYOLLAB9CDsRVY-DcsnDOmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYOLLAB9CDsRVY-DcsnDOmE",
+    "part_id": "part_303",
+    "crawled_at": "2026-09-20 20:30:13"
+  }
+]

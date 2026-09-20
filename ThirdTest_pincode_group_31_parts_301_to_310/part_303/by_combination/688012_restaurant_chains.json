@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "McDonald's",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "688012",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alleppey Division",
+    "major_offices": "Alappuzha Bazar SO",
+    "phone_number": "+91 84337 73250",
+    "website": "https://mcdelivery.co.in/",
+    "rating": 4.7,
+    "reviews_count": 1024,
+    "address": "58/5, Thumbolui Muri Thumpoly Jn, Cochin Highway, Taluk, Amabalapuzha, Alappuzha, Keralam 688008",
+    "area": "Amabalapuzha, Poomkavu",
+    "latitude": 9.524,
+    "longitude": 76.327,
+    "place_id": "ChIJ94o8IgCFCDsRVBMYBSv61PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94o8IgCFCDsRVBMYBSv61PE",
+    "part_id": "part_303",
+    "crawled_at": "2026-09-20 20:18:08"
+  }
+]
