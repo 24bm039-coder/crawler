@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "New Fancy Store",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "691506",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kottarakara HO",
+    "phone_number": "+91 474 245 3946",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Vilayantoor , Odavanattom, NH 744, Chandamukku, Kottarakkara, Keralam 691531",
+    "area": "Chandamukku",
+    "latitude": 9.0051648,
+    "longitude": 76.7792339,
+    "place_id": "ChIJO3tS8KcLBjsRr3pVkgFpx10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3tS8KcLBjsRr3pVkgFpx10",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:34:03"
+  }
+]

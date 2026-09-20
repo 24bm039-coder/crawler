@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Beauty Spot",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "691525",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Thattayil SO, Anandapally BO, Parakara BO",
+    "phone_number": "+91 85904 02283",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Jn, Kodumon, Kerala 691555",
+    "area": "691525",
+    "latitude": 9.187196499999999,
+    "longitude": 76.7713182,
+    "place_id": "ChIJ9fS2w8MTBjsRSZaN1OLWx4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fS2w8MTBjsRSZaN1OLWx4Q",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:44:06"
+  }
+]
