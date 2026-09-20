@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "ABC food products",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "689506",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Pandanad SO, Pandanad West BO",
+    "phone_number": "+91 80784 50943",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J9QC+PM, Puthanagadi, Keralam 688525",
+    "area": "Puthanagadi",
+    "latitude": 9.6394821,
+    "longitude": 76.37173419999999,
+    "place_id": "ChIJtUjQeJJ_CDsR7OSSH2dgyt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUjQeJJ_CDsR7OSSH2dgyt8",
+    "part_id": "part_304",
+    "crawled_at": "2026-09-20 20:56:23"
+  }
+]

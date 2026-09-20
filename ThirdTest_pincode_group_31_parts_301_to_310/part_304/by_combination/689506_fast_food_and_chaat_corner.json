@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "McDonald's",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "689506",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Pandanad SO, Pandanad West BO",
+    "phone_number": "+91 84337 73250",
+    "website": "https://mcdelivery.co.in/",
+    "rating": 4.7,
+    "reviews_count": 1024,
+    "address": "58/5, Thumbolui Muri Thumpoly Jn, Cochin Highway, Taluk, Amabalapuzha, Alappuzha, Keralam 688008",
+    "area": "Amabalapuzha, Poomkavu",
+    "latitude": 9.524,
+    "longitude": 76.327,
+    "place_id": "ChIJ94o8IgCFCDsRVBMYBSv61PE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94o8IgCFCDsRVBMYBSv61PE",
+    "part_id": "part_304",
+    "crawled_at": "2026-09-20 20:56:28"
+  }
+]

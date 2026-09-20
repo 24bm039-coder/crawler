@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Goodness Grocery",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Natural goods store",
+    "pincode": "689115",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Thirumoolapuram SO",
+    "phone_number": "+91 92880 00830",
+    "website": "http://www.thegoodnessgrocery.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "24/1493 ,Rayyan Building , Rajiv Gandhi Junction, Thuthiyoor Rd, Kakkanad, Kochi, Keralam 682037",
+    "area": "Thuthiyoor, Kakkanad",
+    "latitude": 10.0037235,
+    "longitude": 76.3393779,
+    "place_id": "ChIJAxkTQD0NCDsRviqCTH_si_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxkTQD0NCDsRviqCTH_si_E",
+    "part_id": "part_304",
+    "crawled_at": "2026-09-20 20:49:48"
+  }
+]
