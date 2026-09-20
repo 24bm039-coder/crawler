@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Saree Max",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "690539",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "S R P Market SO",
+    "phone_number": "+91 93888 91883",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chinnakada, Kollam, Keralam 691001",
+    "area": "Chinnakada",
+    "latitude": 8.8850132,
+    "longitude": 76.5859859,
+    "place_id": "ChIJVQxgGlv8BTsRyrdgVYcYxuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQxgGlv8BTsRyrdgVYcYxuA",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:24:30"
+  }
+]
