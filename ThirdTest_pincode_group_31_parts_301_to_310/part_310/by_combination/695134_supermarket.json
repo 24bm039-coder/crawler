@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Gopus supermarket",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "695134",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Vlathankara SO",
+    "phone_number": "+91 96567 67888",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Uchakkada, Kulathoor, Keralam 695506",
+    "area": "Uchakkada",
+    "latitude": 8.3155406,
+    "longitude": 77.096944,
+    "place_id": "ChIJL5IO_IGpBTsRJIelx6d0svs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5IO_IGpBTsRJIelx6d0svs",
+    "part_id": "part_310",
+    "crawled_at": "2026-09-20 20:42:19"
+  }
+]

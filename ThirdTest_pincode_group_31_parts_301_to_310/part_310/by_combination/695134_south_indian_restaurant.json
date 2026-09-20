@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sanjeevni Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Seafood restaurant",
+    "pincode": "695134",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Vlathankara SO",
+    "phone_number": "+91 98955 68674",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 98,
+    "address": "Light House Rd, Kovalam Beach, Thiruvananthapuram, Kovalam, Keralam 695521",
+    "area": "Kovalam Beach",
+    "latitude": 8.384558,
+    "longitude": 76.9799275,
+    "place_id": "ChIJ4dwlvQelBTsRwVk00xXv74Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dwlvQelBTsRwVk00xXv74Y",
+    "part_id": "part_310",
+    "crawled_at": "2026-09-20 20:42:23"
+  }
+]

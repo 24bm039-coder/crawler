@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "The Juice Shack",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "695142",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum North Division",
+    "major_offices": "Cherunniyur SO",
+    "phone_number": "+91 89215 69108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "The Juice Shack, near Moon Waves Beach Resort, Varkala, Keralam 695141",
+    "area": "695142",
+    "latitude": 8.7390113,
+    "longitude": 76.70325009999999,
+    "place_id": "ChIJQbQkiYTvBTsRQM3ryHwvs2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbQkiYTvBTsRQM3ryHwvs2c",
+    "part_id": "part_310",
+    "crawled_at": "2026-09-20 20:43:39"
+  }
+]

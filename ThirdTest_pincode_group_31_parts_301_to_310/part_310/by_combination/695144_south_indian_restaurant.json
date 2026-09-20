@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Centre (Restaurant)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "695144",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum North Division",
+    "major_offices": "Moongode SO, Kavalayur BO, Kulamuttam BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Manambur, Kallambalam, Keralam 695605",
+    "area": "695144",
+    "latitude": 8.7505145,
+    "longitude": 76.79705469999999,
+    "place_id": "ChIJjzccIADpBTsRWbIt1OWbAwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzccIADpBTsRWbIt1OWbAwE",
+    "part_id": "part_310",
+    "crawled_at": "2026-09-20 20:44:57"
+  }
+]

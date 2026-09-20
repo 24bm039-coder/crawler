@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Annapoorna Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "695132",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Chenkal SO, Vattavila BO",
+    "phone_number": "+91 77365 64533",
+    "website": "https://bakegrillannapoorna.odoo.com/",
+    "rating": 3.9,
+    "reviews_count": 98,
+    "address": "Annapoorna Restaurant, Chekkalavilakam, Kadakkavoor, Kerala 695306",
+    "area": "695132",
+    "latitude": 8.6732529,
+    "longitude": 76.7652482,
+    "place_id": "ChIJs_zoO57rBTsRrIzQv7jlm3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_zoO57rBTsRrIzQv7jlm3I",
+    "part_id": "part_310",
+    "crawled_at": "2026-09-20 20:41:04"
+  }
+]
