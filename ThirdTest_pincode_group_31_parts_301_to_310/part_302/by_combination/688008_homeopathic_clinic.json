@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr. Lawrence Lotus",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "688008",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alleppey Division",
+    "major_offices": "Thumpoly SO",
+    "phone_number": "+91 94964 66034",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Thumpoly, Alappuzha, Keralam 688521",
+    "area": "Thumpoly",
+    "latitude": 9.5265345,
+    "longitude": 76.31401009999999,
+    "place_id": "ChIJsaqHo82FCDsRuaXRJ0Nyknw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaqHo82FCDsRuaXRJ0Nyknw",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:46:51"
+  }
+]
