@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "City Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "691008",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kadappakada SO",
+    "phone_number": "+91 98461 11765",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "abhilash orient nagar, 66, Kulangiyil Arunodayam Rd, Ammannada, Kollam, Keralam 691021",
+    "area": "Ammannada",
+    "latitude": 8.8897655,
+    "longitude": 76.61361699999999,
+    "place_id": "ChIJd1Yio-j8BTsRCfAkQWkQX5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1Yio-j8BTsRCfAkQWkQX5E",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:37:01"
+  }
+]

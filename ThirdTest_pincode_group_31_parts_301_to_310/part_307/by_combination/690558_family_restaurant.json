@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "New Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "690558",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Mankamkuzhy SO, Ayiranikudy BO, Vettiyar BO",
+    "phone_number": "+91 94472 91037",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "6HVP+759, Kochalummoodu - Pandalam Rd, Kochalummoodu, Vettiyar, Kerala 690509",
+    "area": "Kochalummoodu",
+    "latitude": 9.2431704,
+    "longitude": 76.5854944,
+    "place_id": "ChIJIdgKHQMZBjsRoMdsUZz9IFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdgKHQMZBjsRoMdsUZz9IFM",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:28:50"
+  }
+]

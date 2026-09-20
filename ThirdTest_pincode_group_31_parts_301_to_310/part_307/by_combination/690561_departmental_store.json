@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "AR Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "690561",
+    "circle": "Kerala circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Anayadi BO, Parakadavu BO, Sooranad North SO",
+    "phone_number": "+91 90486 33036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sooranad North, Sooranad, Keralam 690561",
+    "area": "Sooranad North",
+    "latitude": 9.0973279,
+    "longitude": 76.61010619999999,
+    "place_id": "ChIJ9SrifMIFBjsRcYbWFMyZGCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SrifMIFBjsRcYbWFMyZGCI",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:29:55"
+  }
+]

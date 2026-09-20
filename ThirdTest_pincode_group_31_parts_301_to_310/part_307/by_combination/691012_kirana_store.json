@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Meenu",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "691012",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Thirumullavaram SO",
+    "phone_number": "+91 94971 75790",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NSS Building, Thirumullavaram, Kollam, Keralam 691012",
+    "area": "Thirumullavaram",
+    "latitude": 8.894557899999999,
+    "longitude": 76.5565842,
+    "place_id": "ChIJjee6XJD9BTsRgNIxDaTplFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjee6XJD9BTsRgNIxDaTplFQ",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:39:08"
+  }
+]

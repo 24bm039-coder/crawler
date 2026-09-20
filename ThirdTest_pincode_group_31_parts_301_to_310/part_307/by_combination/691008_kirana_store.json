@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "SURESH STORE",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "691008",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kadappakada SO",
+    "phone_number": "+91 62388 69045",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SURESH BUILDING, NO12, Ammannada, Kollam, Keralam 691021",
+    "area": "Ammannada",
+    "latitude": 8.8878572,
+    "longitude": 76.6115392,
+    "place_id": "ChIJdUNQFmD9BTsROwi4ClTpubs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUNQFmD9BTsROwi4ClTpubs",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:36:51"
+  }
+]

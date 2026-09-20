@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "690571",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Nooranad Sanatorium SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "7FG5+JVM, Haripad, Keralam 690514",
+    "area": "690571",
+    "latitude": 9.276359099999999,
+    "longitude": 76.4596315,
+    "place_id": "ChIJ8TA1VQAfBjsRbog3XlJfh5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TA1VQAfBjsRbog3XlJfh5g",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:30:30"
+  }
+]

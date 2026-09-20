@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cafe Lagom",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "691009",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Thevally SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "KSRTC Bus Terminal, Near, Link Road, Taluk Kachery, Kollam, Keralam 691001",
+    "area": "Taluk Kachery",
+    "latitude": 8.891226,
+    "longitude": 76.58594099999999,
+    "place_id": "ChIJfaWNtOn9BTsREGym0gqPOYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaWNtOn9BTsREGym0gqPOYA",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:37:30"
+  }
+]

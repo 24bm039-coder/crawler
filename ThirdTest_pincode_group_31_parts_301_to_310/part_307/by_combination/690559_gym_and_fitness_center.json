@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "F1 fitness centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "690559",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Mavelikara Division",
+    "major_offices": "Perungala SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "Valanjanadakavu, Junction, Bharanikkavu, Keralam 690510",
+    "area": "690559",
+    "latitude": 9.1892521,
+    "longitude": 76.5306334,
+    "place_id": "ChIJwzF7KQAdBjsRQ3JXmU8Dc6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzF7KQAdBjsRQ3JXmU8Dc6Y",
+    "part_id": "part_307",
+    "crawled_at": "2026-09-20 20:29:30"
+  }
+]
