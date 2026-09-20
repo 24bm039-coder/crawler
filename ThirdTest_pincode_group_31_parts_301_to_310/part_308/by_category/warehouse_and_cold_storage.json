@@ -3886,5 +3886,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:47:54",
     "s_no": 49387
+  },
+  {
+    "business_name": "Sneha Agro",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "691535",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Nilamel SO, Kaithode BO",
+    "phone_number": "+91 99450 55840",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Varada, Residency Road, Nagarur colony, Nelamangala Town, Nagarur, Karnataka 562123",
+    "area": "Nagarur colony",
+    "latitude": 13.089939,
+    "longitude": 77.4233311,
+    "place_id": "ChIJSf_StCAlrjsRzRpPJ36MZgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSf_StCAlrjsRzRpPJ36MZgI",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:49:57",
+    "s_no": 50662
   }
 ]

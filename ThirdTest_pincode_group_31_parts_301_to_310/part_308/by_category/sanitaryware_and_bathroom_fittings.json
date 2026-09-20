@@ -5062,5 +5062,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:49:01",
     "s_no": 49988
+  },
+  {
+    "business_name": "Nanjil Sanitaryware",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "691535",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Nilamel SO, Kaithode BO",
+    "phone_number": "+91 89254 95458",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalluvilai Junction, Kalluvilai, Mulagamooddu, Veyanoor A, Tamil Nadu 629167",
+    "area": "Kalluvilai",
+    "latitude": 8.269054299999999,
+    "longitude": 77.2848915,
+    "place_id": "ChIJe3gmPfD_BDsRDTzHT5D2jr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3gmPfD_BDsRDTzHT5D2jr0",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:49:39",
+    "s_no": 50515
   }
 ]

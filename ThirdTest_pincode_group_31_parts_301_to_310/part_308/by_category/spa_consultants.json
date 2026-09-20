@@ -190,5 +190,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:44:08",
     "s_no": 46646
+  },
+  {
+    "business_name": "Ushas agencies, Amul Ice Cream Distributor",
+    "search_category": "Spa Consultants",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "691537",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Pooyapally SO, Kattadi Jn BO, Mailode BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ushas building, big bazar, Andamukkam, Kollam, Kerala 691001",
+    "area": "Andamukkam",
+    "latitude": 8.8845976,
+    "longitude": 76.58332999999999,
+    "place_id": "ChIJFwuzsvb9BTsRJnDHsN9QJBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwuzsvb9BTsRJnDHsN9QJBQ",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:51:42",
+    "s_no": 51410
   }
 ]

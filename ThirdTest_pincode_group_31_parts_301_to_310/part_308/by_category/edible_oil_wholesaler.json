@@ -3958,5 +3958,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:48:45",
     "s_no": 49740
+  },
+  {
+    "business_name": "KAUMUDI OIL MILLS",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Tyre manufacturer",
+    "pincode": "691537",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Pooyapally SO, Kattadi Jn BO, Mailode BO",
+    "phone_number": "+91 98461 16972",
+    "website": "http://www.kaumudi.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kailasam, THEKKEVILA, Eravipuram, Kollam, Keralam 691016",
+    "area": "Kailasam, THEKKEVILA, Eravipuram",
+    "latitude": 8.8666123,
+    "longitude": 76.61103969999999,
+    "place_id": "ChIJ_fzON5r8BTsRczKrN9YaVEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fzON5r8BTsRczKrN9YaVEo",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:51:20",
+    "s_no": 51295
   }
 ]

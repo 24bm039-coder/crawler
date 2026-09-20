@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Zara boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "691536",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kadakkal SO, Channappara BO, Chariparambu BO",
+    "phone_number": "+91 94461 72537",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 5,
+    "address": "Kadakkal, Keralam 691536",
+    "area": "691536",
+    "latitude": 8.8267393,
+    "longitude": 76.9309148,
+    "place_id": "ChIJ18vmx4bbBTsR9GsTQL3tbw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ18vmx4bbBTsR9GsTQL3tbw4",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:50:45"
+  }
+]

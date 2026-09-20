@@ -1534,5 +1534,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:46:33",
     "s_no": 48569
+  },
+  {
+    "business_name": "Nilamel Market",
+    "search_category": "EXIMS",
+    "primary_category": "EXIMS",
+    "all_categories": "EXIMS",
+    "pincode": "691535",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Nilamel SO, Kaithode BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RVFH+PXM, Road, Parippally, Nilamel, Kerala 691535",
+    "area": "691535",
+    "latitude": 8.8243334,
+    "longitude": 76.879921,
+    "place_id": "ChIJi3YXnfjcBTsRDRXLK_g5CB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3YXnfjcBTsRDRXLK_g5CB4",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:49:58",
+    "s_no": 50668
   }
 ]

@@ -7054,5 +7054,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:48:47",
     "s_no": 49791
+  },
+  {
+    "business_name": "SAIL TMT BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "691538",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Vettikavala SO, Kokkad BO, Thalachira BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panavely, Keralam 691532",
+    "area": "691538",
+    "latitude": 8.9729192,
+    "longitude": 76.82580279999999,
+    "place_id": "ChIJO75-TbUKBjsR1OHFnErx9E4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO75-TbUKBjsR1OHFnErx9E4",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:52:05",
+    "s_no": 51575
   }
 ]

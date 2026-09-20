@@ -3502,5 +3502,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:48:58",
     "s_no": 49965
+  },
+  {
+    "business_name": "K R K Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "691536",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kadakkal SO, Channappara BO, Chariparambu BO",
+    "phone_number": "+91 97465 57441",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 9,
+    "address": "QVFJ+93G, K.S.R.T.C Road, Kilimanoor, Thiruvananthapuram, Pazhayakunnummel, Keralam 695601",
+    "area": "Kilimanoor",
+    "latitude": 8.7734458,
+    "longitude": 76.88019369999999,
+    "place_id": "ChIJV5r-_C7DBTsRXEXjsXhizxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5r-_C7DBTsRXEXjsXhizxA",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:50:52",
+    "s_no": 50960
   }
 ]

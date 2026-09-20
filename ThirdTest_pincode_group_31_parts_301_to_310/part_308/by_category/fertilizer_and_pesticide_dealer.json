@@ -2470,5 +2470,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:47:55",
     "s_no": 49398
+  },
+  {
+    "business_name": "Amxton Pest Control Pvt Ltd",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "691534",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Chadayamangalam SO, Elampazhannur BO, Kuriyode BO",
+    "phone_number": "N/A",
+    "website": "https://amxtonpestcontrol.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Almi Building, Building No:32/965, Near Valiyakoonambaikulam Temple Varazhikam Bus Stop, Vadakevila PO, palathara Road, Pallimukku, Kollam, Keralam 691010",
+    "area": "Pallimukku",
+    "latitude": 8.8795466,
+    "longitude": 76.6331632,
+    "place_id": "ChIJpeFY-ZP8BTsRrDZXt7MjvbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeFY-ZP8BTsRrDZXt7MjvbQ",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:49:19",
+    "s_no": 50265
   }
 ]

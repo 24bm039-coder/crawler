@@ -3790,5 +3790,29 @@
     "part_id": "part_308",
     "crawled_at": "2026-09-20 20:48:01",
     "s_no": 49520
+  },
+  {
+    "business_name": "SN SPICES TRADERS",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Disposable Items shop, Dry Fruit Store, Indian grocery store, Packaging supply store, Stationery store, Supermarket",
+    "pincode": "691537",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Pooyapally SO, Kattadi Jn BO, Mailode BO",
+    "phone_number": "+91 474 259 4810",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "SN Spices Traders, Chathannoor P.O, Chathannoor, Keralam 691572",
+    "area": "691537",
+    "latitude": 8.8636467,
+    "longitude": 76.713022,
+    "place_id": "ChIJEfOFGvXjBTsRcSlrYpaNZwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfOFGvXjBTsRcSlrYpaNZwE",
+    "part_id": "part_308",
+    "crawled_at": "2026-09-20 20:51:19",
+    "s_no": 51291
   }
 ]
