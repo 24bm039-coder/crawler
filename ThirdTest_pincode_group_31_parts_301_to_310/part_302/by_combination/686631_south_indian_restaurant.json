@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jo's Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "686631",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Ettumanur SO, Pattithanam BO, Punnathura West BO",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/Jos-Cafe-100828321992979",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pala Rd, near ICICI bank, Ettumanoor, Keralam 686631",
+    "area": "686631",
+    "latitude": 9.671283599999999,
+    "longitude": 76.5618904,
+    "place_id": "ChIJU7iqXsrTBzsRviumPWc59QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7iqXsrTBzsRviumPWc59QM",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:25:10"
+  }
+]

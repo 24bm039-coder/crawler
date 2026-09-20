@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Empire Clinic",
+    "search_category": "Doctors",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "686632",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Kanakari SO, Kothanallur BO, Kurumulloor BO",
+    "phone_number": "N/A",
+    "website": "http://empire.clinic.icareheal.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2/4, junction, Pattithanam, Ettumanoor, Keralam 686632",
+    "area": "Pattithanam",
+    "latitude": 9.6858271,
+    "longitude": 76.5565122,
+    "place_id": "ChIJ0Zs6DcDTBzsRvrR4gdowVFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Zs6DcDTBzsRvrR4gdowVFA",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:25:55"
+  }
+]

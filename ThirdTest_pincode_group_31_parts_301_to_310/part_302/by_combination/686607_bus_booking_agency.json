@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "UBC Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Travel agency",
+    "pincode": "686607",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Thalayazham SO, Kothavara BO, Thottakom BO",
+    "phone_number": "+91 90728 27272",
+    "website": "http://www.ubctravels.com/",
+    "rating": 2.6,
+    "reviews_count": 179,
+    "address": "First Floor Nagampadam Private Bus Stand, Keralam 686001",
+    "area": "Nagampadam",
+    "latitude": 9.5960849,
+    "longitude": 76.52792339999999,
+    "place_id": "ChIJ0bFl8wMrBjsRomP2htXosSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bFl8wMrBjsRomP2htXosSU",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:19:31"
+  }
+]

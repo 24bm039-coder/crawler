@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Noah Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "686632",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Kanakari SO, Kothanallur BO, Kurumulloor BO",
+    "phone_number": "+91 97467 55467",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "First floor, Municipal Complex, Pala, Keralam 686575",
+    "area": "686632",
+    "latitude": 9.70819,
+    "longitude": 76.6824243,
+    "place_id": "ChIJb6tQqgnNBzsRLduRZHv2sLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6tQqgnNBzsRLduRZHv2sLQ",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:26:02"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Subramanya stores",
+    "search_category": "General Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "686630",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Thellakom SO",
+    "phone_number": "+91 87142 77046",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Arpookara, Keralam 686008",
+    "area": "Gandhi Nagar",
+    "latitude": 9.630551299999999,
+    "longitude": 76.51891739999999,
+    "place_id": "ChIJETJEGQMrBjsRAhp7zACosug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETJEGQMrBjsRAhp7zACosug",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:24:29"
+  }
+]
