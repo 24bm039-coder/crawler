@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr. Arun G",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "689574",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Muttar SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M8JV+C2R, Chakkarakulam, Cherthala, Keralam 688524",
+    "area": "Chakkarakulam",
+    "latitude": 9.681117,
+    "longitude": 76.3425008,
+    "place_id": "ChIJ69jBg5F9CDsRnf_f6QIbkYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69jBg5F9CDsRnf_f6QIbkYE",
+    "part_id": "part_304",
+    "crawled_at": "2026-09-20 21:14:46"
+  }
+]

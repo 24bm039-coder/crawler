@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "A-One Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "689533",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Aranmula SO, Nalkallikkal BO, Mallappuzhassery BO",
+    "phone_number": "+91 62388 48440",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Kozhencherry, Keralam 689641",
+    "area": "689533",
+    "latitude": 9.3374961,
+    "longitude": 76.7056538,
+    "place_id": "ChIJvcdhXdk9BjsRBeoySwdte3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcdhXdk9BjsRBeoySwdte3Q",
+    "part_id": "part_304",
+    "crawled_at": "2026-09-20 21:05:37"
+  }
+]
