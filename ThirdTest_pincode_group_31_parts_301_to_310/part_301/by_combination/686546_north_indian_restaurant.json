@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Anjali",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "686546",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Madappally SO, Amara BO",
+    "phone_number": "+91 98476 93365",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kurishumoodu, Changanassery, Keralam 686104",
+    "area": "Kurishumoodu",
+    "latitude": 9.4587577,
+    "longitude": 76.55405549999999,
+    "place_id": "ChIJoefV1f4lBjsRmeQ2GfyTVPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoefV1f4lBjsRmeQ2GfyTVPg",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:33:07"
+  }
+]

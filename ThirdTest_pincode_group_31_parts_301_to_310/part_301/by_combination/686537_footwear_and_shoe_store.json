@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Star footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "686537",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Pallickachirakavala SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Changanassery, Keralam 686105",
+    "area": "686537",
+    "latitude": 9.4471631,
+    "longitude": 76.5637325,
+    "place_id": "ChIJkZnF8_0lBjsRLoegmhizDR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZnF8_0lBjsRLoegmhizDR4",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:25:24"
+  }
+]

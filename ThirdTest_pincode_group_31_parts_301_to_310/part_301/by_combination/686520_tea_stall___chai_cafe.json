@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chai Hut",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Bakery and Cake Shop, Cafe, Sandwich shop",
+    "pincode": "686520",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Chirakadavu SO, Chenappady BO, Chirakadavu East BO",
+    "phone_number": "+91 98951 05108",
+    "website": "https://chaihut.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Vismaya, World Trade Center, Vismaya, Infopark Expy, opp. Brigade, Infopark Campus, Kochi, Keralam 682042",
+    "area": "Infopark Campus",
+    "latitude": 10.008110499999999,
+    "longitude": 76.36476809999999,
+    "place_id": "ChIJH7TBlWILCDsRcqDlGG8Z0Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7TBlWILCDsRcqDlGG8Z0Xg",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:18:11"
+  }
+]

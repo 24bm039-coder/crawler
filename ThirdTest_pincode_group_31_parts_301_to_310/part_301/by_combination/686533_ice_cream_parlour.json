@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ice cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "686533",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Kuzhimattom SO, Channanikadu BO",
+    "phone_number": "+91 94970 89816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "UDHICKAL KAVALA, Njaliankuzhi, Vakathanam, Keralam 686538",
+    "area": "Njaliankuzhi",
+    "latitude": 9.5137588,
+    "longitude": 76.5691113,
+    "place_id": "ChIJ39dfZ6gvBjsRyLJerDJKG78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39dfZ6gvBjsRyLJerDJKG78",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:21:54"
+  }
+]

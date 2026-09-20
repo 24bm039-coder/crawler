@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Grill Top Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "686531",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Chingavanam SO",
+    "phone_number": "+91 79940 80824",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "puthenpalam, Chingavanam, Keralam 686531",
+    "area": "puthenpalam",
+    "latitude": 9.5123298,
+    "longitude": 76.5277083,
+    "place_id": "ChIJBzl3FYspBjsRGXAg3GC9N5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzl3FYspBjsRGXAg3GC9N5A",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:20:17"
+  }
+]
