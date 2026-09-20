@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "South Park Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "691578",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kalluvathukkal SO, Chirakkara BO, Chirakkarathazham BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Ayoor Ithikkara Rd, Oyoor, Keralam 691510",
+    "area": "691578",
+    "latitude": 8.8745032,
+    "longitude": 76.78060409999999,
+    "place_id": "ChIJsVuz8NfgBTsRfOdqfPTK3Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVuz8NfgBTsRfOdqfPTK3Ok",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:29:33"
+  }
+]

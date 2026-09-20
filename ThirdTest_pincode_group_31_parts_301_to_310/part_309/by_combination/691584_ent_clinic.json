@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ent clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "691584",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Chavara South SO, Vadakkumbhagom BO",
+    "phone_number": "+91 81471 65348",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kadavoor, Keralam 691601",
+    "area": "691584",
+    "latitude": 8.9254745,
+    "longitude": 76.5891134,
+    "place_id": "ChIJ-faxVsT9BTsR0IF9QNZO2Rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-faxVsT9BTsR0IF9QNZO2Rw",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:33:06"
+  }
+]
