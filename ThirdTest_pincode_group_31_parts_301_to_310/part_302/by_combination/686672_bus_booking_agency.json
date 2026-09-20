@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Aurora Cars",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "686672",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alwaye Division",
+    "major_offices": "Arakuzha SO, Meenkunnam BO, Memadangu BO",
+    "phone_number": "+91 94460 34747",
+    "website": "https://www.auroracars.in/",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Aurora Cars, 686672, India",
+    "area": "686672",
+    "latitude": 10.5442763,
+    "longitude": 76.1383668,
+    "place_id": "ChIJ3SkGgjLbBzsR7YbbojvTkbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SkGgjLbBzsR7YbbojvTkbY",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:38:40"
+  }
+]

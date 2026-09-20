@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Pizza Max",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant",
+    "pincode": "686692",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alwaye Division",
+    "major_offices": "Thrikkariyoor SO, Airoopadam BO, Kottappady BO",
+    "phone_number": "N/A",
+    "website": "https://www.pizzamax.in/",
+    "rating": 3.5,
+    "reviews_count": 277,
+    "address": "Malayinkeezhu Kozhipally Bypass Rd, Kothamangalam, Kerala 686691",
+    "area": "686692",
+    "latitude": 10.0611172,
+    "longitude": 76.63474339999999,
+    "place_id": "ChIJ5X-YISbnBzsR6VdYJLfhl1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5X-YISbnBzsR6VdYJLfhl1A",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:40:58"
+  }
+]

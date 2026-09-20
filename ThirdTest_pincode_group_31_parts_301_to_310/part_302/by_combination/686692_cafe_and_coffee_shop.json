@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sini Teashop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "686692",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Alwaye Division",
+    "major_offices": "Thrikkariyoor SO, Airoopadam BO, Kottappady BO",
+    "phone_number": "+91 95445 08416",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kothamangalam, Keralam 686691",
+    "area": "686692",
+    "latitude": 10.0781985,
+    "longitude": 76.6302348,
+    "place_id": "ChIJg2YxyWrlBzsRye8tUwVc-6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2YxyWrlBzsRye8tUwVc-6g",
+    "part_id": "part_302",
+    "crawled_at": "2026-09-20 20:40:57"
+  }
+]
