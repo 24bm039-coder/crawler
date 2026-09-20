@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jon's beauty spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "689588",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Vaipur SO, Kulathur BO",
+    "phone_number": "+91 89216 40574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FP2V+4X5, Perumpetty - Chunkappara Rd, Kottangal, Chunkappara, Keralam 686547",
+    "area": "689588",
+    "latitude": 9.4502581,
+    "longitude": 76.74498919999999,
+    "place_id": "ChIJR_0gf_I5BjsRoUJpIGzOMw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_0gf_I5BjsRoUJpIGzOMw4",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:18:23"
+  }
+]

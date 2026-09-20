@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Grand Taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "689612",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Ayroor North SO, Velliyara BO",
+    "phone_number": "+91 88485 95561",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chittoor, Pathanamthitta, Keralam 689645",
+    "area": "Chittoor",
+    "latitude": 9.270250599999999,
+    "longitude": 76.78241539999999,
+    "place_id": "ChIJrehPnjkVBjsR1brrYr-2ktU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrehPnjkVBjsR1brrYr-2ktU",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:25:55"
+  }
+]

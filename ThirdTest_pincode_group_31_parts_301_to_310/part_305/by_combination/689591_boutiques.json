@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Rhythm Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "689591",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Mepral SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mylapra, Pathanamthitta Part, Kerala 689671",
+    "area": "Mylapra",
+    "latitude": 9.2805194,
+    "longitude": 76.79829749999999,
+    "place_id": "ChIJV8AtHgAVBjsRYjeMQ2F7P1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8AtHgAVBjsRYjeMQ2F7P1Y",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:20:16"
+  }
+]

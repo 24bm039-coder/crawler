@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Taxi cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "689611",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Ayroor South SO, Kanjeettukara BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ayroor, Keralam 689611",
+    "area": "689611",
+    "latitude": 9.369937499999999,
+    "longitude": 76.7283125,
+    "place_id": "ChIJeZOoRwA9BjsRSYQ20E08cZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeZOoRwA9BjsRSYQ20E08cZw",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:25:03"
+  }
+]

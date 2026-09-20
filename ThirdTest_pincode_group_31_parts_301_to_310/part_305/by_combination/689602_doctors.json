@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr Tom",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "689602",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Puthusserry South SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CJCJ+MPM, Chengaroor, Kerala 689602",
+    "area": "689602",
+    "latitude": 9.420712,
+    "longitude": 76.63166799999999,
+    "place_id": "ChIJ5UJCAQAlBjsRyzosDhVB9iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5UJCAQAlBjsRyzosDhVB9iE",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:24:11"
+  }
+]

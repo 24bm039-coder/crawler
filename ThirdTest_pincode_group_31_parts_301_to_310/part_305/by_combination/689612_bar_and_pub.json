@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Hotel Yamuna",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel",
+    "pincode": "689612",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Ayroor North SO, Velliyara BO",
+    "phone_number": "+91 81138 35421",
+    "website": "https://hotelyamuna.com/",
+    "rating": 4.2,
+    "reviews_count": 1242,
+    "address": "Yamuna Complex, Kayamkulam - Punalur Rd, near Old Private Bus Stand, Parass La, Adoor, Keralam 691523",
+    "area": "Parass La",
+    "latitude": 9.1567514,
+    "longitude": 76.7300017,
+    "place_id": "ChIJ9cuW94YRBjsRE0sBZ_9olzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cuW94YRBjsRE0sBZ_9olzQ",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:25:43"
+  }
+]

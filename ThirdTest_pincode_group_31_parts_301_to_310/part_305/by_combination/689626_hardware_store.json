@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jani Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "689626",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Tiruvalla Division",
+    "major_offices": "Parumala SO",
+    "phone_number": "+91 77368 88211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9GCX+QWF, SH 6, Podiyadi, Thiruvalla, Keralam 689110",
+    "area": "Podiyadi",
+    "latitude": 9.3719181,
+    "longitude": 76.5499033,
+    "place_id": "ChIJ1wgl2pEjBjsRBo6sp68XnMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wgl2pEjBjsRBo6sp68XnMc",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:33:16"
+  }
+]
