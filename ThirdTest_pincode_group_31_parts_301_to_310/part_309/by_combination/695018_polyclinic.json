@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Leela Healthcare Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "695018",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Pappanamcode SO",
+    "phone_number": "+91 94475 83630",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No:5, Padmam Plaza, Opposite KSRTC Bus Depot, CTO Colony, Pappanamcode, Thiruvananthapuram, Kerala 695018",
+    "area": "CTO Colony, Pappanamcode",
+    "latitude": 8.469972,
+    "longitude": 76.980689,
+    "place_id": "ChIJq-DhiO66BTsRwE-otR0QNWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-DhiO66BTsRwE-otR0QNWs",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:49:04"
+  }
+]

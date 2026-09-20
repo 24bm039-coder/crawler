@@ -1582,5 +1582,29 @@
     "part_id": "part_309",
     "crawled_at": "2026-09-20 20:44:48",
     "s_no": 49828
+  },
+  {
+    "business_name": "E Port Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "695013",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Trivandrum South Division",
+    "major_offices": "Vattiyoorkavu SO, Cheriyakonni BO, Kodunganur BO",
+    "phone_number": "+91 62825 70146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ANRA 145 a, Vattiyoorkavu, Nettayam, Thiruvananthapuram, Kerala 695013",
+    "area": "Vattiyoorkavu, Nettayam",
+    "latitude": 8.5386548,
+    "longitude": 76.9889851,
+    "place_id": "ChIJVzjSa-25BTsRr_sTetZ9J54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVzjSa-25BTsRr_sTetZ9J54",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:46:11",
+    "s_no": 51011
   }
 ]
