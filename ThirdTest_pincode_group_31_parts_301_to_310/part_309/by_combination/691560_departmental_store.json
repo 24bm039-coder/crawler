@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Abin Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Asian grocery store",
+    "all_categories": "Asian grocery store",
+    "pincode": "691560",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Kalayapuram SO, Mailom BO, Thamarakudy BO",
+    "phone_number": "+91 86061 25515",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Moolamuck, Kulakkada, Keralam 691521",
+    "area": "Moolamuck",
+    "latitude": 9.067106899999999,
+    "longitude": 76.7502975,
+    "place_id": "ChIJabN8soQNBjsRW78_SDyWk0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabN8soQNBjsRW78_SDyWk0I",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:24:14"
+  }
+]

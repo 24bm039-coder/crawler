@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Falcon Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "691573",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Quilon Division",
+    "major_offices": "Adichanallur SO, Kummallur BO, Velichikala BO",
+    "phone_number": "+91 81380 05600",
+    "website": "https://falconmall.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "M3WR+6M9, nearby Bus Stand, Perumbilavu, Akathiyoor, Perumpilavu, Keralam 680519",
+    "area": "Perumbilavu",
+    "latitude": 10.6983746,
+    "longitude": 76.09230269999999,
+    "place_id": "ChIJgV1QunDApzsRAsA8OSKdgTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV1QunDApzsRAsA8OSKdgTU",
+    "part_id": "part_309",
+    "crawled_at": "2026-09-20 20:27:26"
+  }
+]
