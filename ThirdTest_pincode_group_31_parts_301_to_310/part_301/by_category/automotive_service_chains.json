@@ -1174,5 +1174,29 @@
     "part_id": "part_301",
     "crawled_at": "2026-09-20 20:34:16",
     "s_no": 24756
+  },
+  {
+    "business_name": "Mobil India - Mobil Car Care, Classique Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Oil change service",
+    "all_categories": "Oil change service",
+    "pincode": "686575",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Pala HO, Pala Town SO, Pala Market Junction SO",
+    "phone_number": "+91 75930 30111",
+    "website": "https://www.mobil.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P.O, Puliyannoor, Mutholy, Pala, Keralam 686573",
+    "area": "P.O, Puliyannoor",
+    "latitude": 9.7043076,
+    "longitude": 76.65789889999999,
+    "place_id": "ChIJdwT1N03NBzsRWhdYt-lt5aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwT1N03NBzsRWhdYt-lt5aA",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:45:15",
+    "s_no": 34074
   }
 ]

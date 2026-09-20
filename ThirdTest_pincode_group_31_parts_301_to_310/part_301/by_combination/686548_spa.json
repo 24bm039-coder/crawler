@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Buggy Spa",
+    "search_category": "Spa",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "686548",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Changanacherry Division",
+    "major_offices": "Nalukody SO",
+    "phone_number": "+91 73068 34977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stove Palace, Thrikkodithanam, Changanassery, Kerala 686105",
+    "area": "686548",
+    "latitude": 9.438743299999999,
+    "longitude": 76.56760659999999,
+    "place_id": "ChIJy0GoDQAlBjsRtxI5OeR7xDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0GoDQAlBjsRtxI5OeR7xDE",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:36:00"
+  }
+]

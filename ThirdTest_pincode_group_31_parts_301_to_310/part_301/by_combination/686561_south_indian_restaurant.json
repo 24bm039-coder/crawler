@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Thalassery restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Indian restaurant, Kerala restaurant",
+    "pincode": "686561",
+    "circle": "Kerala Circle",
+    "region": "Kochi Region",
+    "division": "Kottayam Division",
+    "major_offices": "Mannanam SO, Amalagiri BO",
+    "phone_number": "+91 92072 04441",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Sankranthi, Gandhi Nagar, Kottayam, Perumbaikad, Keralam 686016",
+    "area": "Sankranthi, Gandhi Nagar",
+    "latitude": 9.6234814,
+    "longitude": 76.5376134,
+    "place_id": "ChIJI86mrlorBjsRSCEIIkGeMi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI86mrlorBjsRSCEIIkGeMi4",
+    "part_id": "part_301",
+    "crawled_at": "2026-09-20 20:38:12"
+  }
+]
