@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "City Shop",
+    "search_category": "Kirana Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "689671",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Mylapra SO, Chengalthadom BO",
+    "phone_number": "+91 90374 45361",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chittoor, Pathanamthitta, Keralam 689671",
+    "area": "Chittoor",
+    "latitude": 9.2739046,
+    "longitude": 76.7922217,
+    "place_id": "ChIJgyG7EscVBjsRTV7xNdcpyOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgyG7EscVBjsRTV7xNdcpyOI",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:51:29"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "HelloAddress.com",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "689654",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Kozhencherry  Thekkemala SO",
+    "phone_number": "+91 481 258 7202",
+    "website": "https://www.helloaddress.com/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Malayala Manorama Co. Ltd, Kottayam - Kumily Rd, Eerayil Kadavu, Kottayam, Keralam 686001",
+    "area": "Eerayil Kadavu",
+    "latitude": 9.588873699999999,
+    "longitude": 76.52796769999999,
+    "place_id": "ChIJLTZbrBMrBjsRDFX1t4lsD1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTZbrBMrBjsRDFX1t4lsD1s",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:44:55"
+  }
+]

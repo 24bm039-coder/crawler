@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "689642",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Naranganam SO, Naranganam North BO, Naranganam West BO",
+    "phone_number": "+91 70254 75719",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ice Cream, Naranganam, Karur, Keralam 689642",
+    "area": "689642",
+    "latitude": 9.3161607,
+    "longitude": 76.73088899999999,
+    "place_id": "ChIJb5bOWxM9BjsRm_6-YIVobCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5bOWxM9BjsRm_6-YIVobCg",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:35:29"
+  }
+]

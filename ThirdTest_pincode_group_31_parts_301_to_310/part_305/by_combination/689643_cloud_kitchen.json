@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Cloud city restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "689643",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Elanthur SO, Edapariyaram BO, Elanthur East BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 466,
+    "address": "Pathanamthitta Ring Rd, near st peters junction, Chittoor, Pathanamthitta, Kerala 689645",
+    "area": "Chittoor",
+    "latitude": 9.270022299999999,
+    "longitude": 76.7797478,
+    "place_id": "ChIJJduraKMVBjsRj8soKxC8NV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJduraKMVBjsRj8soKxC8NV0",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:36:15"
+  }
+]

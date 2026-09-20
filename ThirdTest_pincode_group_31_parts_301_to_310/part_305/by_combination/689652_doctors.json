@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dr Sandheesh",
+    "search_category": "Doctors",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "689652",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Punnakkad SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8PG5+6WR, Thekkemala, Kozhencherry, Kerala 689654",
+    "area": "Thekkemala",
+    "latitude": 9.3256071,
+    "longitude": 76.7097775,
+    "place_id": "ChIJnzFkcwA9BjsRbNnmxC73suo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzFkcwA9BjsRbNnmxC73suo",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:42:50"
+  }
+]

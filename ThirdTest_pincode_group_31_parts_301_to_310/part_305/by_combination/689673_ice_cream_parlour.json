@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amul",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "689673",
+    "circle": "Kerala Circle",
+    "region": "Trivandrum HQ Region",
+    "division": "Pathanamthitta Division",
+    "major_offices": "Rannypazhavangadi SO, Cherukulanji BO, Iythala BO",
+    "phone_number": "+91 1800 258 3333",
+    "website": "http://www.amul.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "9QPM+3HF, SH8, Ranni, Pazhavangadi, Keralam 689673",
+    "area": "689673",
+    "latitude": 9.3851785,
+    "longitude": 76.7839123,
+    "place_id": "ChIJuXGT0NQ4BjsR9aRf6EZiEMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXGT0NQ4BjsR9aRf6EZiEMk",
+    "part_id": "part_305",
+    "crawled_at": "2026-09-20 20:53:05"
+  }
+]
